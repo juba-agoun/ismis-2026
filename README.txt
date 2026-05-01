@@ -28,3 +28,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+run  on code space: 
+
+python3 -m http.server 8000
